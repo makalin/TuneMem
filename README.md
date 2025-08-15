@@ -4,6 +4,13 @@
 
 TuneMem is an innovative app designed to help users memorize information by converting it into catchy songs or jingles. Leveraging the power of music to enhance memory retention, this app transforms text into memorable tunes, making learning and recalling facts easier and more enjoyable. Whether you're studying for exams, preparing for presentations, or simply trying to remember daily tasks, TuneMem makes memorization fun and effective.
 
+## 🌍 Available Languages
+
+- [English](README.md) (Default)
+- [Türkçe](README.tr.md) (Turkish)
+- [Deutsch](README.de.md) (German)
+- [Français](README.fr.md) (French)
+
 ## Why Music?
 
 Research shows that music can significantly enhance memory retention. By associating information with melodies, TuneMem leverages auditory learning to make memorization more effective and enjoyable. Studies from [Harvard Health](https://www.health.harvard.edu/mind-and-mood/music-can-boost-memory-and-mood) and other sources support the use of music in memory enhancement.
